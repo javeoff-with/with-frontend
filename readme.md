@@ -1,1 +1,87 @@
 # With Frontend
+
+## Roadmap
+
+- CSS
+	- [ ] Preprocessors
+		- [ ] Sass
+		- [ ] PostCSS
+		- [ ] ~~Less~~
+	- [X] CSS Architecture
+		- [X] BEM
+		- [ ] ~~OOCSS~~
+		- [ ] ~~SMACSS~~
+- Build Tools
+	- [ ] Tasks Runner
+		- [ ] NPM
+		- [ ] pnpm
+		- [ ] yarn
+		- [ ] PNP
+	- [ ] Module Bundlers
+		- [ ] Webpack
+		- [ ] Rollup
+		- [ ] Vite
+		- [ ] ESBuild
+		- [ ] Parcel
+	- [ ] Linters and Formatters
+		- [ ] Prettier
+		- [ ] ESLint
+	- [ ] Babel
+- Modern CSS
+	- [ ] Styled Components
+	- [ ] CSS Modules
+- Web Components
+	- [ ] HTML Templates
+	- [ ] Custom Elements
+	- [ ] Shadow DOM
+- CSS Frameworks
+	- [ ] Reactstrap
+	- [ ] Material UI
+	- [ ] Taliwind CSS
+	- [ ] Chakra UI
+- Testing
+	- Testing Libraries
+		- [ ] Jest
+		- [ ] react-testing-library
+		- [ ] Cypress
+		- [ ] Enzyme
+	- Testing Frameworks
+		- [ ] Mocha
+		- [ ] Chai
+		- [ ] Ava
+		- [ ] Jasmine
+- Web API
+	- [ ] Storage
+	- [ ] Web Sockets
+	- [ ] Service Workers
+	- [ ] Location
+	- [ ] Notifications
+	- [ ] Device Orientation
+	- [ ] Payments
+	- [ ] Credentials
+- PWA
+	- [ ] PTPL Pattern
+	- [ ] RAIL Pattern
+	- [ ] Perfomance Metrics
+	- [ ] Using Lighthouse
+	- [ ] Using DevTools
+- SSR
+	- [ ] React = Next.js
+	- [ ] Angular = Universal
+	- [ ] Vue.js = Nuxt.js
+- GraphQL
+	- [ ] Apollo
+	- [ ] Relay Modern
+- Mobile Applications
+	- [ ] React Native
+	- [ ] Native Script
+	- [ ] Flutter
+	- [ ] Ionic
+- Desktop Applications
+	- [X] Electron
+- Engine
+	- [X] Compiler & Interpreter between
+	- [X] AIT
+	- [X] JIT
+	- [X] V8 Engine
+- Web Assembly
